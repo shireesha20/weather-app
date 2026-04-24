@@ -83,9 +83,9 @@ The application displays:
 
 ## 🧑‍🎓 Author
 
-**Veerendra**  
+**Shireesha Yerukali**  
 B.Tech Student  
-G. Pulla Reddy Engineering College  
+Ashoka Womens Engineering College  
 
 ---
 
